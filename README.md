@@ -1,5 +1,5 @@
 # Project-2
-Snowfall in Washinton D.C
+Snowfall in Washington D.C
 
 The National Oceanic and Atmospheric Administration (NOAA) has been keeping detailed records of snowfall data for the Washington D.C area from 2000 to 2023. This comprehensive collection of information provide valuable insights into the frequency, intensity, and duration of snow events in the region. The data compiled by NOAA not only includes the amount of snowfall but also factors such as timing, temperature, and precipitation patterns associated with snowstorms. 
      These records serve as an essential resource for meteorologists, climatologists, and researchers studying the impact of climate change on snowfall patterns. By analyzing this data, experts can gain a better understanding of how snowfall in the Washington D.C area has evolved over the years and make predictions about future trends.
